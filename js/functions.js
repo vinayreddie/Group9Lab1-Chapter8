@@ -7,5 +7,4 @@ function calculatetotal(quantity, price) {
 }
 
 function outputCartRow(file, title, quantity, price, total) {
-
 }
