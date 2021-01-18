@@ -14,3 +14,4 @@ for (var i = 0; i < titles.length; i++) {
 var tax = calculateTax(subtotal, taxrate);
 var shipping = calculateShipping(subtotal, shippingmax);
 var grand = calculateGrandTotal(subtotal, tax, shipping);
+
