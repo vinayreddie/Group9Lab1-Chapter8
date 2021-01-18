@@ -2,8 +2,8 @@
 
 /* define functions here */
 
-function calculatetotal(q, p) {
-    return q * p;
+function calculatetotal(quantity, price) {
+    return quantity * price;
 }
 
 function outputCartRow(file, title, quantity, price, total) {
