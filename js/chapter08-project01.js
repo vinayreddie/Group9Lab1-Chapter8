@@ -1,7 +1,6 @@
 var taxrate = 0.10;
 var shippingmax = 1000;
 
-/* running total for subtotals */
 var subtotal = 0;
 
 for (var i = 0; i < titles.length; i++) {
